@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int arr[100], n, target;
+    int arr[5], n, target;
     int found = 0;
 
     printf("Enter the size of array: ");
